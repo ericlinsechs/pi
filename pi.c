@@ -11,7 +11,7 @@
 #include <string.h>
 #include <math.h>
 
-#define total_times 500000000
+#define total_times 100000000
 
 static int numCPU = -1;
 
